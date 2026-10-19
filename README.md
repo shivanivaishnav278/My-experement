@@ -18,5 +18,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Shiavni Kumari | Student | Information Techonoloy |Rajkiya Engineering College Banda  |  2507340130056@recbanda.ac.in 
 2 | . | . | . | . | .
